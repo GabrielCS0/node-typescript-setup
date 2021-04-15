@@ -14,7 +14,7 @@ $ git clone https://github.com/GabrielCordeiroDev/node-typescript-setup
 $ cd node-typescript-setup
 
 # Install all project dependencies
-yarn
+$ yarn
 
 # Start the project
 $ yarn dev
