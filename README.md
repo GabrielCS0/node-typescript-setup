@@ -22,4 +22,4 @@ $ yarn dev
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/GabrielCordeiroDev/node-typescript-setup/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/GabrielCordeiroDev/node-typescript-setup/blob/main/LICENSE) file for details.
